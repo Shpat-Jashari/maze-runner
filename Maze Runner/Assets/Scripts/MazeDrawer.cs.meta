@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 52bfa044678fa5d47994eaa5c254dd82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TopLeftWalls: {fileID: 1280017819860543063, guid: 399156814a0c9084d887ed50c73b084d, type: 3}
+  - TopMiddleWalls: {fileID: 2932436405577116340, guid: 5927635981443e246a244aedb7cd5e29, type: 3}
+  - TopRightWalls: {fileID: 2610880040814311009, guid: 086fc9eec88267b49b1c3021656ab28b, type: 3}
+  - TopWalls: {fileID: 8742695003054171583, guid: 2c91ebbf790b1f0488a0a6d9fdf801af, type: 3}
+  - MiddleLeftWalls: {fileID: 8462177199719018604, guid: b810380edcd9c9e45b8cf4789d88bd96, type: 3}
+  - MiddleWalls: {fileID: 6105748546926309072, guid: 7852006318a9b6949bec85165939dc71, type: 3}
+  - MiddleRightWalls: {fileID: 8290216871852073107, guid: 1c684f333d268cb48a5cc43cf4bfc784, type: 3}
+  - VerticalWalls: {fileID: 2610880040814311009, guid: 086fc9eec88267b49b1c3021656ab28b, type: 3}
+  - HorizontalWalls: {fileID: 4154288946966080516, guid: 6a6188fd2376f8544a58947aa23ab635, type: 3}
+  - BottomLeftWalls: {fileID: 493914947236412245, guid: 26b9358c258c0f94788c3414e081af52, type: 3}
+  - BottomMiddleWalls: {fileID: 7031929093494969280, guid: bcc447e7417fce742838e70ddc047107, type: 3}
+  - BottomRightWalls: {fileID: 2932475960671786751, guid: 1b14547165d95424ea1d31fdab6a0bfc, type: 3}
+  - BottomWalls: {fileID: 4981212340801301637, guid: 3f0302752abd37d4086679f12e5af82c, type: 3}
+  - LeftWalls: {fileID: 2678108661138686066, guid: d29cdd6b9ee35284fad88d402e5336c1, type: 3}
+  - RightWalls: {fileID: 2672220226810024034, guid: 78d74cb844188f940a536ccfa7fbd9c0, type: 3}
+  - Key: {fileID: 5333463481024501836, guid: dc8127f97429c4040abb72298159c2c7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
